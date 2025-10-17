@@ -2,7 +2,7 @@
 142.93.136.176 - - [04/Oct/2024:00:00:22 +0000] "GET /v1-health HTTP/1.1" 200 51 "-" "DigitalOcean Uptime Probe 0.22.0 (https://digitalocean.com)"
 138.68.248.85 - - [04/Oct/2024:00:00:22 +0000] "GET /v1-health HTTP/1.1" 200 51 "-" "DigitalOcean Uptime Probe 0.22.0 (https://digitalocean.com)"
 159.89.185.30 - - [04/Oct/2024:00:01:04 +0000] "GET /v1-health HTTP/1.1" 200 51 "-" "DigitalOcean Uptime Probe 0.22.0 (https://digitalocean.com)"
-185.224.128.59 - - [04/Oct/2024:00:01:14 +0000] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 404 162 "-" "-"
+185.224.128.59 - - [04/Oct/2024:00:01:14 +0000] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 404 162 "-" "-" 
 178.128.94.113 - - [04/Oct/2024:00:01:18 +0000] "GET /v1-health HTTP/1.1" 200 51 "-" "DigitalOcean Uptime Probe 0.22.0 (https://digitalocean.com)"
 142.93.136.176 - - [04/Oct/2024:00:01:22 +0000] "GET /v1-health HTTP/1.1" 200 51 "-" "DigitalOcean Uptime Probe 0.22.0 (https://digitalocean.com)"
 138.68.248.85 - - [04/Oct/2024:00:01:22 +0000] "GET /v1-health HTTP/1.1" 200 51 "-" "DigitalOcean Uptime Probe 0.22.0 (https://digitalocean.com)"
