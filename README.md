@@ -19,3 +19,6 @@ A simple shell script to analyze Nginx access log files and display the top 5 mo
 
 1. Clone this repository or download the script.
 2. Place your Nginx log file in the same directory and name it `nginxLogFile` (or update the script to match your log filename).
+
+
+https://roadmap.sh/projects/nginx-log-analyser
